@@ -81,9 +81,8 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
-
-
-
+1. Repositório selecionado: https://github.com/immich-app/immich
+2. Gráfico selecionado: ![Linhas de Código - Immich](./loc_immich.png)
+3. Explicação: O Immich é um projeto iniciado em 2022 que é basicamente uma alternativa open source e self-hosted ao Google Fotos. De 2020 até hoje, o projeto está em desenvolvimento muito ativo, como é alertado no próprio README do repositório. Durante esse intervalo, haviam muitas breaking changes entre uma versão e outra. No último ano, porém, essas breaking changes se tornaram cada vez menos frequentes.
+   As últimas releases, que podem ser consultadas no GitHub, são em sua maioria compostas por commits de correção de bugs e de refatorações, enquanto no início do projeto eram muito mais focadas em novas funcionalidades.
+   O gráfico de Lines of code exibe perfeitamente essa tendência, com a quantidade de linhas de código caindo após 2024, provavelmente por conta dessas refatorações e correções (onde muitas vezes o código também é refatorado para facilitar a correção).
